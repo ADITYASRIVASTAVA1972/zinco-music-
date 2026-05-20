@@ -8,5 +8,3 @@ services:
       - key: DISCORD_TOKEN
         sync: false
     plan: free
-    aptPackages:
-      - ffmpeg
